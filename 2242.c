@@ -1,10 +1,11 @@
-/*	URI Online Judge 	 | 	    2242
-	Autor: 	Lucas Langeani
-	Data:  	21/08/2020
-	Função: extrair as vogais de uma 
-			string  e  comparar  sua 
-			equidistância das pontas
-	-----------------------	      */
+/*	
+URI Online Judge     |      2242
+Autor: 	Lucas Langeani
+Data:  	21/08/2020
+Função: extrair as vogais de uma 
+	string  e  comparar  sua 
+	equidistância das pontas
+-----------------------	      */
 
 #include <stdio.h>
  

@@ -3,8 +3,8 @@ URI Online Judge      |      1871
 Autor:	 Lucas Langeani
 Data:	 23/08/2020
 Função:	 algoritmo para eliminar
-		 os zeros de uma soma de
-		 dois números inteiros.
+	 os zeros de uma soma de
+	 dois números inteiros.
 -------------------------------*/
 
 #include <stdio.h>
@@ -14,10 +14,10 @@ int main()
 {
 	
 	int M,	//números
-		N,	//inteiros
-		S,	//soma de M e N
-		S0,	//soma sem 0
-		i;	//contador
+	    N,	//inteiros
+	    S,	//soma de M e N
+	   S0,	//soma sem 0
+	    i;	//contador
 	
 	while (scanf("%d %d", &M, &N)	//entrada de dois números
 			, M && N != 0)	//condição de parada - números são nulos
